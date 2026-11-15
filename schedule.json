@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T18:00+09:00",
+  "updated_at": "2026-11-15T21:00+09:00",
   "days": [
     {
       "date": "2026-11-15",
@@ -14,7 +14,7 @@
     {
       "date": "2026-11-16",
       "label": "11月16日（月）",
-      "weather": { "text": "曇り時々晴れ", "high": 18, "low": 11, "rain": 41 },
+      "weather": { "text": "晴れ後曇り", "high": 19, "low": 11, "rain": 10 },
       "all_day": [],
       "items": [
         { "time": "06:00", "title": "起床", "type": "guide" },
