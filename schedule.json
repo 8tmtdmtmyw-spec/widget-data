@@ -1,27 +1,35 @@
 {
-  "updated_at": "2026-11-15T21:00+09:00",
+  "updated_at": "2026-11-16T06:00+09:00",
   "days": [
-    {
-      "date": "2026-11-15",
-      "label": "11月15日（日）",
-      "weather": { "text": "雨", "high": 12, "low": 11, "rain": 100 },
-      "all_day": [ { "title": "AppleTV解約" } ],
-      "items": [
-        { "time": "08:15", "end": "17:00", "title": "StarbucksCoffee", "detail": "イオンモール多摩平の森", "type": "event" }
-      ],
-      "tasks": [ "プチプラネットX応募（締切 23:59）" ]
-    },
     {
       "date": "2026-11-16",
       "label": "11月16日（月）",
-      "weather": { "text": "晴れ後曇り", "high": 19, "low": 11, "rain": 10 },
+      "weather": { "text": "曇り", "high": 18, "low": 11, "rain": 41 },
       "all_day": [],
       "items": [
         { "time": "06:00", "title": "起床", "type": "guide" },
+        { "time": "09:30", "end": "10:30", "title": "朝会", "detail": "Lark", "type": "event" },
+        { "time": "10:30", "end": "11:00", "title": "全体朝会", "detail": "Lark", "type": "event" },
         { "time": "11:00", "end": "12:00", "title": "朝会", "detail": "Lark", "type": "event" },
-        { "time": "13:00", "end": "16:00", "title": "作業レクチャー", "detail": "Lark", "type": "event" }
+        { "time": "13:00", "end": "16:00", "title": "作業レクチャー", "detail": "Lark", "type": "event" },
+        { "time": "16:00", "end": "17:00", "title": "クラウド定例", "detail": "Lark", "type": "event" }
       ],
       "tasks": [ "朝会の引き継ぎ判断（11:00まで）" ]
+    },
+    {
+      "date": "2026-11-17",
+      "label": "11月17日（火）",
+      "weather": { "text": "雨", "high": 11, "low": 9, "rain": 72 },
+      "all_day": [],
+      "items": [
+        { "time": "06:00", "title": "起床", "type": "guide" },
+        { "time": "09:30", "end": "10:30", "title": "朝会", "detail": "Lark", "type": "event" },
+        { "time": "10:30", "end": "11:00", "title": "全体朝会", "detail": "Lark", "type": "event" },
+        { "time": "11:00", "end": "12:00", "title": "朝会", "detail": "Lark", "type": "event" },
+        { "time": "15:00", "end": "16:00", "title": "内部定例", "detail": "Lark", "type": "event" },
+        { "time": "17:30", "end": "18:00", "title": "夕会", "detail": "Lark", "type": "event" }
+      ],
+      "tasks": []
     }
   ]
 }
