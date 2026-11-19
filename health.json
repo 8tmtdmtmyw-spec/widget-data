@@ -1,18 +1,18 @@
 {
   "date": "2026-11-19",
-  "updated_at": "2026-11-19T19:00+09:00",
-  "calories_in": null,
+  "updated_at": "2026-11-20T01:00+09:00",
+  "calories_in": 2014,
   "calories_target": 2150,
-  "protein": null,
-  "fat": null,
-  "carbs": null,
-  "meals_recorded": false,
-  "steps": 3885,
+  "protein": 75,
+  "fat": 71,
+  "carbs": 229,
+  "meals_recorded": true,
+  "steps": 5487,
   "steps_avg7": 6097,
-  "active_kcal": 226,
-  "active_avg7": 344,
+  "active_kcal": 335,
+  "active_avg7": 342,
   "exercise_min": 18,
   "exercise_avg7": 26,
   "sleep_hours": 5.1,
-  "resting_hr": 63
+  "resting_hr": 66
 }
